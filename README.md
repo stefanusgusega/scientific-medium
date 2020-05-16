@@ -26,7 +26,12 @@ Untuk pengumpulan, lakukan:
 2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
 
 ## Bonus
-Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
+- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
 
+## Points Granted
+Max Point: 1700<br>
+Bonus: + 300
+
+<br>
 ====================================================================<br>
 <i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
