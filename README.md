@@ -29,8 +29,8 @@ Untuk pengumpulan, lakukan:
 - Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
 
 ## Points Granted
-Max Point: 1700<br>
-Bonus: + 300
+Max Point: 900<br>
+Bonus: + 200
 
 <br>
 ====================================================================<br>
