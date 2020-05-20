@@ -1,16 +1,21 @@
 # Tugas Tulisan Medium
 Tugas Seleksi Ca-IRK 2018 - Menulis Medium
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+## Informasi Pembuat
+Stefanus Gusega Gunawan / 13518149
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
+## Judul Tulisan
+Judul Tulisan
 
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
+## Link Medium Tulisan
+Link Medium Tulisan
+
+## Pendapat mengenai pentingnya kemampuan menulis
+Pendapat
 
 ## Spesifikasi Tugas
 1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
+    - Panjang tulisan minimal 7 <i>minutes read</i>. (biasanya disesuaikan dg 256 WPM, sehingga kalo 7 menit haruslah 256*7 words)
     - Gunakan gambar / grafik / equation untuk memperjelas.
     - Tata bahasa formal dan <i>to the point</i>.
 
